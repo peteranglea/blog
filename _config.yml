@@ -3,7 +3,7 @@ description:
 meta_description: "Stuff I figured out so that you don't have to. Front-end web development tips, tricks, gotchas, and more"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
