@@ -1,0 +1,16 @@
+name: TIL (Today I Learned)
+description: 
+meta_description: "Stuff I figured out so that you don't have to. Front-end web development tips, tricks, gotchas, and more"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://peteranglea.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://peteranglea.github.io'
+author:         'Peter Anglea'
