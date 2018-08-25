@@ -1,6 +1,6 @@
-name: TIL (Today I Learned)
-description: 
-meta_description: "Stuff I figured out so that you don't have to. Front-end web development tips, tricks, gotchas, and more"
+name: Today I Learned
+description: Answers to full-stack dev questions
+meta_description: "Stuff I figured out so that you don't have to. Full-stack web development tips, tricks, gotchas, and more"
 
 markdown: kramdown
 highlighter: rouge
@@ -10,6 +10,7 @@ baseurl: /
 domain_name: 'https://peteranglea.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
+permalink: :year/:month/:day/:title/
 
 # Details for the RSS feed generator
 url:            'https://peteranglea.github.io'
