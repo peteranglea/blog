@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'https://peteranglea.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+gtm_code: GTM-PTZMM4T
 plugins: [jekyll-paginate]
 permalink: :year/:month/:day/:title/
 

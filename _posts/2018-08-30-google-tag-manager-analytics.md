@@ -2,7 +2,10 @@
 layout: post
 title: How to set up a website with Google Analytics using Google Tag Manager
 description: A simple step-by-step guide to getting a website off the ground with Analytics and Tag Manager
-tags: Analytics, Google Tag Manager
+cover: https://res.cloudinary.com/peteranglea/image/upload/v1535722982/analytics-ss-1920.jpg
+tags: 
+- Analytics
+- Google Tag Manager
 ---
 
 Setting up a new site with Google Analytics is something I do quite regularly. And since the sites I develop for my agency typically have multiple people that want add additional tags (or "pixels") to the sites, everything goes through Google Tag Manager.
