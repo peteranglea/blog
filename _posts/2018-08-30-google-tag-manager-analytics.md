@@ -23,9 +23,9 @@ These two things sound similar, but the **Container** if where your tags are act
 
 If you already have an account, then you can skip the first item and just create another container inside that account. Otherwise, when you create a new account, it'll also step you through creating the first container for that account.
 
-![Step one of creating a Google Tag Manager account](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_473/v1535228818/Screen_Shot_2018-08-25_at_4.13.51_PM.jpg)
+![Step one of creating a Google Tag Manager account](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_473/v1535228818/Screen_Shot_2018-08-25_at_4.13.51_PM.jpg)
 
-![Step two of creating a Google Tag Manager account](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_836/v1535228818/Screen_Shot_2018-08-25_at_4.14.34_PM.jpg)
+![Step two of creating a Google Tag Manager account](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_836/v1535228818/Screen_Shot_2018-08-25_at_4.14.34_PM.jpg)
 
 ## 2. Add Google Tag Manager to your website
 Once you've created your GTM account and container, it will give you two separate code snippets to copy/paste into your website.
@@ -66,7 +66,7 @@ Go to [analytics.google.com](https://analytics.google.com), sign in with your Go
 
 Your account setup may look something like this:
 
-![Setting up a Google Analytics account](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_554/v1535228818/Screen_Shot_2018-08-25_at_4.17.40_PM.jpg)
+![Setting up a Google Analytics account](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_554/v1535228818/Screen_Shot_2018-08-25_at_4.17.40_PM.jpg)
 
 Now, copy the UA code presented to you.
 
@@ -81,7 +81,7 @@ Click on Variables and then proceed to create a **new User-Defined Variable**. T
 
 There are some custom/advanced options here, but most people won't need them. The default setup covers most use cases.
 
-![Google Analytics Variable in GTM](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_1000/v1535684416/Screen_Shot_2018-08-25_at_4.37.42_PM.jpg)
+![Google Analytics Variable in GTM](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_1000/v1535684416/Screen_Shot_2018-08-25_at_4.37.42_PM.jpg)
 
 Now we'll create a Tag and Trigger to round things out.
 
@@ -96,7 +96,7 @@ In your container, create a new Tag and name it whatever you like (eg. **Google 
 
 Your tag may look like this:
 
-![Setting up a tag in GTM](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_1000/v1535684417/Screen_Shot_2018-08-25_at_4.39.44_PM.jpg)
+![Setting up a tag in GTM](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_1000/v1535684417/Screen_Shot_2018-08-25_at_4.39.44_PM.jpg)
 
 Click "Save" and... we're *almost* done.
 
@@ -112,7 +112,7 @@ Click **Publish** and wait for it to finish.
 
 Now, let's go back to Analytics and make sure it's working. First visit your website, then head to the Real-Time Analytics dashboard. If everything was done properly, you should see yourself appear.
 
-![Real time Analytics](http://res.cloudinary.com/peteranglea/image/upload/c_scale,w_827/v1535685263/Screen_Shot_2018-08-30_at_1.57.11_PM.jpg)
+![Real time Analytics](https://res.cloudinary.com/peteranglea/image/upload/c_scale,w_827/v1535685263/Screen_Shot_2018-08-30_at_1.57.11_PM.jpg)
 
 **There we are!!**
 
