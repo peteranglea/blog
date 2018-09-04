@@ -33,7 +33,7 @@ Due to some great work and community-building by the like of [Jen Simmons](https
 
 The most distinctive tool is the CSS Grid Inspector. As I have been starting to incorporate more and more CSS grid into my front-end designs, having the ability to highlight the rows, columns, grid lines, and grid areas from the web inspector has been a huge help.
 
-![Firefox CSS Grid Inspector tool](http://res.cloudinary.com/peteranglea/image/upload/c_scale,e_shadow:40,w_1000/v1536067013/usf-css-grid.jpg)
+![Firefox CSS Grid Inspector tool](https://res.cloudinary.com/peteranglea/image/upload/c_scale,e_shadow:40,w_1000/v1536067013/usf-css-grid.jpg)
 
 ## Pain points
 
